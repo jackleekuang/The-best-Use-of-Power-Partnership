@@ -33,7 +33,7 @@ Key aspects of our analysis include:
 * Critical Metrics Analysis (as shown below) when LBJ and AD are both on the court, only one of them is on the court, or neither of them is on the court:
   * Offensive_ratings: Score per 100 Processions
   * Defensive_ratings: Opponent’s Score per 100 Processions
-  * Net_ratings: (1) - (2)
+  * Net_ratings: Offensive_ratings - Defensive_ratings
   * Plus/Minus: (Score(team) - Score(opp)) / team processions
   * Teammate_FG%: Teammates Field Goal Percentage
 
