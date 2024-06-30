@@ -36,6 +36,7 @@ Key aspects of our analysis include:
   * Net_ratings: Offensive_ratings - Defensive_ratings
   * Plus/Minus: (Score(team) - Score(opp)) / team processions
   * Teammate_FG%: Teammates Field Goal Percentage
+ * Substitutions Analysis for Lebron James and Anthony Davis
 
 ## Skill & Analytics Covered / Data Source
 
